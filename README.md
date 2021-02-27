@@ -1,4 +1,4 @@
-# selenium_java_examples_by_dirask_com
+# Selenium java - basic full working example with selenium maven dependency - dirask.com
 
 originally posted at:
 
